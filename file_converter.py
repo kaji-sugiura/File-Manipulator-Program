@@ -1,8 +1,8 @@
 import markdown
 import sys
 
-markdown_file = "markdown.md"
-output_file_path = "out.html"
+markdown_file = "file/markdown.md"
+output_file_path = "file/out.html"
 
 markdown_contents = ""
 
